@@ -1,0 +1,7 @@
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\bin\Debug\ConsoleApp62gyhyt.exe.config
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\bin\Debug\ConsoleApp62gyhyt.exe
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\bin\Debug\ConsoleApp62gyhyt.pdb
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\obj\Debug\ConsoleApp62gyhyt.csprojResolveAssemblyReference.cache
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\obj\Debug\ConsoleApp62gyhyt.csproj.CoreCompileInputs.cache
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\obj\Debug\ConsoleApp62gyhyt.exe
+C:\Users\Scholar\source\repos\ConsoleApp62gyhyt\ConsoleApp62gyhyt\obj\Debug\ConsoleApp62gyhyt.pdb
